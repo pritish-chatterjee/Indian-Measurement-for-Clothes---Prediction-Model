@@ -7,3 +7,5 @@ We employed a basic multi - variable regression model in R which accepts paramet
 
 We presented our project to fashion laberl, NEH Store, and they put it up on their website where the feature was used by 100+ actual customers of the brand.
 
+
+![](images/image1.png)
